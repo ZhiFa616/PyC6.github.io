@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://py-c6-github-af69wnsis-zhifa616s-projects.vercel.app/sitemap.xml
+Sitemap: https://pyc6.github.io/sitemap.xml
